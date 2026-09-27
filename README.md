@@ -10,3 +10,12 @@ This repository contains a file for an image. I was able to sync the image from 
 
 My image file is MichelleParson.jpeg 
 
+
+# Commenting in HTML looks different than commenting in the regular code space, in previous classes I used the # symbol to write comments.
+
+<!-- In HTML, this is the format you will use to write a comment. >
+
+I used Developer Mozilla as a source to learn about HTML image formatting. I used w3schools as a source to look up how to make comments in HTML. -->
+
+I learned that the --> ends a comment and the <!-- symbols begins a comment. 
+
